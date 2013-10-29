@@ -29,8 +29,14 @@ https://github.com/nolanbrown/Tesseract-iPhone-Demo
 ## Security
 
 ## Function Helper
+#### Swizzling
+__jrswizzle__ \ one-stop-shop for all your method swizzling needs
+https://github.com/rentzsch/jrswizzle  
 
 ## Effects / Drawing
+#### Color
+__color__ \ A collection of categories and utilities that extend UIColor  
+https://github.com/thisandagain/color  
 
 ## Analytics / Infographics
 
@@ -42,7 +48,10 @@ https://github.com/nolanbrown/Tesseract-iPhone-Demo
 
 ## Networking
 
-## Interactions
+## Animation / Interactions
+#### CADisplayLink
+__TISpringLoadedViews__ \ Some UIView subclasses which behave as though they're attached to a spring  
+https://github.com/thermogl/TISpringLoadedViews  
 
 ## Resource Helper
 
@@ -63,5 +72,10 @@ https://github.com/nolanbrown/Tesseract-iPhone-Demo
 ### Navigation
 
 ## Templating / Automation
+
+## Xcode
+#### Color
+__ColorSense-for-Xcode__ \ Plugin for Xcode to make working with colors more visual  
+https://github.com/omz/ColorSense-for-Xcode  
 
 ## Server
