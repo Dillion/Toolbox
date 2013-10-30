@@ -37,6 +37,18 @@ https://github.com/rentzsch/jrswizzle
 #### Color
 __color__ \ A collection of categories and utilities that extend UIColor  
 https://github.com/thisandagain/color  
+#### Filter
+__GPUImage__ \ An open source iOS framework for GPU-based image and video processing  
+https://github.com/BradLarson/GPUImage  
+__vImageCategory__ \ UIImage category which have vImage wrapper functions and the demo project  
+https://github.com/shu223/vImageCategory  
+#### Lighting
+__iOS-Adaptive-Metal-Knob__ \ A knob made in iOS that simulates real-time reflection updates on a brushed metal surface  
+https://github.com/mobilerengler/iOS-Adaptive-Metal-Knob  
+__DAAnisotropicImage__ \ DAAnisotropicImage is an anisotropic UIImage generator. Specifically, for a metallic slider knob.  
+https://github.com/danielamitay/DAAnisotropicImage  
+__ShadowedLayer__ \ A CALayer subclass with an approximation of Lambert shading and specular highlighting  
+https://github.com/Spaceman-Labs/ShadowedLayer  
 
 ## Analytics / Infographics
 
