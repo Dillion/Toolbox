@@ -30,7 +30,7 @@ https://github.com/nolanbrown/Tesseract-iPhone-Demo
 
 ## Function Helper
 #### Swizzling
-__jrswizzle__ \ one-stop-shop for all your method swizzling needs
+__jrswizzle__ \ one-stop-shop for all your method swizzling needs  
 https://github.com/rentzsch/jrswizzle  
 
 ## Effects / Drawing
@@ -57,8 +57,17 @@ https://github.com/Spaceman-Labs/ShadowedLayer
 ## Debugging
 
 ## Data
+#### Core Data
+__MagicalRecord__ \ Super Awesome Easy Fetching for Core Data 1!!!11!!!!1!  
+https://github.com/magicalpanda/MagicalRecord  
 
 ## Networking
+#### REST
+__AFNetworking__ \ A delightful iOS and OS X networking framework  
+https://github.com/AFNetworking/AFNetworking  
+#### Mocks / Stubs
+__objc-mocktail__ \ A simple(r) way to stub out HTTP servers in your Objective-C app
+https://github.com/square/objc-mocktail  
 
 ## Animation / Interactions
 #### CADisplayLink
@@ -89,5 +98,7 @@ https://github.com/thermogl/TISpringLoadedViews
 #### Color
 __ColorSense-for-Xcode__ \ Plugin for Xcode to make working with colors more visual  
 https://github.com/omz/ColorSense-for-Xcode  
+__XcodeColors__ \ XcodeColors allows you to use colors in the Xcode debugging console. It's designed to aid in the debugging process.  
+https://github.com/robbiehanson/XcodeColors  
 
 ## Server
