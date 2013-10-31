@@ -75,12 +75,28 @@ __TISpringLoadedViews__ \ Some UIView subclasses which behave as though they're 
 https://github.com/thermogl/TISpringLoadedViews  
 
 ## Resource Helper
+#### Images
+__iOS-Artwork-Extractor__ \ Extract iOS artwork and emoji symbols into png files, generate glossy buttons png files  
+https://github.com/0xced/iOS-Artwork-Extractor  
 
 ## iTunes / Payment
+#### InApp
+__CargoBay__ \ The Essential StoreKit Companion  
+https://github.com/mattt/CargoBay  
 
 ## Audio
+#### OpenAL
+__Finch__ \ Simple, low-latency OpenAL sound engine for Apple iOS  
+https://github.com/zoul/Finch  
+#### Core Audio
+__TheAmazingAudioEngine__ \ Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to  
+https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine  
 
 ## Physics / AI
+__CMTraerPhysics__ \ Objective-C/Cocoa port of the Traer v3.0 physics engine; with iOS demo app  
+https://github.com/chrismiles/CMTraerPhysics  
+__Chipmunk2D__ \ A fast and lightweight 2D game physics library  
+https://github.com/slembcke/Chipmunk2D  
 
 ## Source References
 
