@@ -1,7 +1,8 @@
 Toolbox
 =======
 
-List of open source iOS stuff. Curated and categorized.
+List of open source iOS stuff. Curated and categorized.  
+[Text and Publishing](#Text-and-Publishing)
 
 ## Text and Publishing
 #### Text
@@ -29,6 +30,34 @@ https://github.com/nolanbrown/Tesseract-iPhone-Demo
 ## Security
 
 ## Function Helper
+#### Data structure
+__nedtries__ \ A portable in-place bitwise binary Fredkin trie algorithm which allows for near constant time insertions, deletions, finds, closest fit finds and iteration  
+https://github.com/ned14/nedtries  
+__digraph__ \ weighted directed graph data structure written in Object-C  
+https://github.com/aq1018/digraph  
+__dawggenerator__ \ Fast directed acyclic word graph generator  
+https://github.com/chalup/dawggenerator  
+#### Geometry
+__delaunay-ios__ \ Delaunay and Voronoi diagram generators ported to iOS. Includes Fortune's algorithm for Voronoi generation  
+https://github.com/czgarrett/delaunay-ios  
+__ConvexHull__ \ Javascript implementation of Andrew's Monotone Chain convex hull algorithm  
+https://github.com/mgomes/ConvexHull  
+__PESGraph__ \ Objective-C implementation of a Graph, along with Dijkstra's algorithm for shortest path finding  
+https://github.com/snyderp/PESGraph  
+__theseus__ \ A very flexible random maze generator, solver, and renderer for Ruby  
+https://github.com/jamis/theseus  
+__ShapeReducer-objc__ \ Path optimization using the Douglas-Peucker Line Approximation Algorithm in Objective C  
+https://github.com/tomislav/ShapeReducer-objc  
+#### Graphics
+__separable-sss__ \ Separable Subsurface Scattering is a technique that allows to efficiently perform subsurface scattering calculations in screen space in just two passes  
+https://github.com/iryoku/separable-sss  
+__smaa__ \ SMAA is a very efficient GPU-based MLAA implementation (DX9, DX10, DX11 and OpenGL), capable of handling subpixel features seamlessly, and featuring an improved and advanced pattern detection & handling mechanism  
+https://github.com/iryoku/smaa  
+__OpenSubdiv__ \ An Open-Source subdivision surface library  
+https://github.com/PixarAnimationStudios/OpenSubdiv  
+#### Pattern recognition
+__BayesianKit__ \ A Cocoa framework implementing a bayesian classifier
+https://github.com/lok/BayesianKit  
 #### Swizzling
 __jrswizzle__ \ one-stop-shop for all your method swizzling needs  
 https://github.com/rentzsch/jrswizzle  
@@ -98,7 +127,12 @@ https://github.com/chrismiles/CMTraerPhysics
 __Chipmunk2D__ \ A fast and lightweight 2D game physics library  
 https://github.com/slembcke/Chipmunk2D  
 
-## Source References
+## References
+#### Books
+__CleverAlgorithms__ \ An open source book that describes a large number of algorithmic techniques from the the fields of Biologically Inspired Computation, Computational Intelligence and Metaheuristics in a complete, consistent, and centralized manner such that they are accessible, usable, and understandable.  
+https://github.com/jbrownlee/CleverAlgorithms  
+__The-Nature-of-Code__ \ Raw source of The Nature of Code book as well as Processing examples  
+https://github.com/shiffman/The-Nature-of-Code  
 
 ## UI Components
 ### Notifications
