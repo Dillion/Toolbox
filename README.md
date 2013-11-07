@@ -3,10 +3,14 @@ Toolbox
 
 List of open source iOS stuff. Curated and categorized.  
 
-| Link | Link | Link |
-| --- | --- | --- |
-| [Text and Publishing](#text-and-publishing) | [External Services / Sharing](#external-services--sharing) | [Hardware / Sensor](#hardware--sensor) |
-| [Security](#security) | [Function Helper](#function-helper) | [Effects / Drawing](#effects--drawing) |
+| :link: | :link: | :link: | :link: |
+| --- | --- | --- | --- |
+| [Text and Publishing](#text-and-publishing) | [External Services / Sharing](#external-services--sharing) | [Hardware / Sensor](#hardware--sensor) | [Security](#security) |
+| [Function Helper](#function-helper) | [Effects / Drawing](#effects--drawing) | [Analytics / Infographics](#analytics--infographics) | [Ads / Rating](#ads--rating) |
+| [Debugging](#debugging) | [Data](#data) | [Networking](#networking) | [Animation / Interactions](#animation--interactions) |
+| [Resource Helper](#resource-helper) | [iTunes / Payment](#itunes--payment) | [Audio](#audio) | [Physics / AI](#physics--ai) |
+| [References](#references) | [UI Components](#ui-components) | [Templating / Automation](#templating--automation) | [Xcode](#xcode) |
+| Server | | | |
 
 ## Text and Publishing
 #### Text
