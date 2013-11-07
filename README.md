@@ -2,7 +2,10 @@ Toolbox
 =======
 
 List of open source iOS stuff. Curated and categorized.  
-[Text and Publishing](#text-and-publishing)|[External Services / Sharing](#external-services--sharing)|[Hardware / Sensor](#hardware--sensor)|[Security](#security)|[Function Helper](#function-helper)|[Effects / Drawing](#effects--drawing)
+ |  | 
+--- | --- | ---
+[Text and Publishing](#text-and-publishing)|[External Services / Sharing](#external-services--sharing)|[Hardware / Sensor](#hardware--sensor)
+[Security](#security)|[Function Helper](#function-helper)|[Effects / Drawing](#effects--drawing)
 
 ## Text and Publishing
 #### Text
