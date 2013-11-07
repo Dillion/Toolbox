@@ -10,7 +10,7 @@ List of open source iOS stuff. Curated and categorized.
 | [Debugging](#debugging) | [Data](#data) | [Networking](#networking) | [Animation / Interactions](#animation--interactions) |
 | [Resource Helper](#resource-helper) | [iTunes / Payment](#itunes--payment) | [Audio](#audio) | [Physics / AI](#physics--ai) |
 | [References](#references) | [UI Components](#ui-components) | [Templating / Automation](#templating--automation) | [Xcode](#xcode) |
-| Server(#server) | | | |
+| [Server](#server) | | | |
 
 ## Text and Publishing
 #### Text
