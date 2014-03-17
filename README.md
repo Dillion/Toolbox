@@ -10,7 +10,7 @@ List of open source, heavily iOS related stuff. Curated and categorized.
 | [Debugging](#debugging) | [Data](#data) | [Networking](#networking) | [Animation / Interactions](#animation--interactions) |
 | [Resource Helper](#resource-helper) | [iTunes / Payment](#itunes--payment) | [Audio](#audio) | [Physics / AI](#physics--ai) |
 | [References](#references) | [UI Components](#ui-components) | [Templating / Automation](#templating--automation) | [Xcode](#xcode) |
-| [Server](#server) | | | |
+| [Server](#server) | [Versioning](#versioning) | | |
 
 ## Text and Publishing
 #### Text
@@ -109,6 +109,9 @@ https://github.com/square/PonyDebugger
 #### Core Data
 __MagicalRecord__ \ Super Awesome Easy Fetching for Core Data 1!!!11!!!!1!  
 https://github.com/magicalpanda/MagicalRecord  
+#### SQLite
+__fmdb__ \ A Cocoa / Objective-C wrapper around SQLite  
+https://github.com/ccgus/fmdb  
 
 ## Networking
 #### REST
@@ -119,7 +122,9 @@ __objc-mocktail__ \ A simple(r) way to stub out HTTP servers in your Objective-C
 https://github.com/square/objc-mocktail  
 #### Realtime
 __SocketRocket__ \ A conforming Objective-C WebSocket client library.  
-https://github.com/square/SocketRocket
+https://github.com/square/SocketRocket  
+__XMPPFramework__ \ An XMPP Framework in Objective-C for Mac and iOS  
+https://github.com/robbiehanson/XMPPFramework  
 
 ## Animation / Interactions
 #### CADisplayLink
@@ -156,10 +161,15 @@ __CleverAlgorithms__ \ An open source book that describes a large number of algo
 https://github.com/jbrownlee/CleverAlgorithms  
 __The-Nature-of-Code__ \ Raw source of The Nature of Code book as well as Processing examples  
 https://github.com/shiffman/The-Nature-of-Code  
+#### Papers
+__papers-we-love__ \ Papers from the computer science community to read and discuss. https://twitter.com/papers_we_love  
+https://github.com/papers-we-love/papers-we-love  
 
 ## UI Components
 ### Notifications
 ### Controls
+__SMPageControl__ \ A drop in replacement for UIPageControl with a slew of additional customization options.  
+https://github.com/Spaceman-Labs/SMPageControl  
 ### Displays
 #### Calendar
 __objc-TimesSquare__ \ TimesSquare is an Objective-C calendar view for your apps.  
@@ -188,3 +198,11 @@ __XcodeColors__ \ XcodeColors allows you to use colors in the Xcode debugging co
 https://github.com/robbiehanson/XcodeColors  
 
 ## Server
+__fucking_shell_scripts__ \ The easiest, most common sense configuration management tool... because you just use fucking shell scripts.
+http://fuckingshellscripts.org  
+https://github.com/brandonhilkert/fucking_shell_scripts  
+
+## Versioning
+#### Git
+__gitignore__ \ A collection of useful .gitignore templates  
+https://github.com/github/gitignore  
