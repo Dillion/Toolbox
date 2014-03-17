@@ -88,12 +88,18 @@ __DAAnisotropicImage__ \ DAAnisotropicImage is an anisotropic UIImage generator.
 https://github.com/danielamitay/DAAnisotropicImage  
 __ShadowedLayer__ \ A CALayer subclass with an approximation of Lambert shading and specular highlighting  
 https://github.com/Spaceman-Labs/ShadowedLayer  
+__Shimmer__ \ An easy way to add a simple shimmering effect to any view in an iOS app, which is particularly useful as an unobtrusive loading indicator.  
+https://github.com/facebook/Shimmer  
 
 ## Analytics / Infographics
 
 ## Ads / Rating
 
 ## Debugging
+__chisel__ \ Chisel is a collection of LLDB commands to assist debugging iOS apps.  
+https://github.com/facebook/chisel  
+__DCIntrospect__ \ Small library of visual debugging tools for iOS. http://domesticcat.com.au/projects/introspect  
+https://github.com/domesticcatsoftware/DCIntrospect  
 
 ## Data
 #### Core Data
@@ -155,6 +161,8 @@ https://github.com/lxcid/LXReorderableCollectionViewFlowLayout
 ### Navigation
 
 ## Templating / Automation
+__liftoff__ \ CLI for configuring opinionated defaults on new Xcode projects  
+https://github.com/thoughtbot/liftoff  
 
 ## Xcode
 #### Color
