@@ -31,6 +31,8 @@ https://github.com/synedra/LinkedIn-OAuth-Sample-Client
 #### QR / barcode
 __ZBarSDK.Framework__ \ Build script to create a .Framework for the ZBarSDK  
 https://github.com/echoz/ZBarSDK.Framework  
+__ZXingObjC__ \ An Objective-C Port of ZXing  
+https://github.com/TheLevelUp/ZXingObjC  
 #### OCR
 __Tesseract-iPhone-Demo__ \ Demo iPhone app utilizing the tesseract library for OCR  
 https://github.com/nolanbrown/Tesseract-iPhone-Demo  
@@ -148,6 +150,8 @@ https://github.com/shiffman/The-Nature-of-Code
 ### Displays
 ### Keyboard
 ### Scrollable
+__LXReorderableCollectionViewFlowLayout__ \ Extends `UICollectionViewFlowLayout` to support reordering of cells. Similar to long press and pan on books in iBook.  
+https://github.com/lxcid/LXReorderableCollectionViewFlowLayout  
 ### Navigation
 
 ## Templating / Automation
