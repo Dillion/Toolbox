@@ -1,7 +1,7 @@
 Toolbox
 =======
 
-List of open source iOS stuff. Curated and categorized.  
+List of open source, heavily iOS related stuff. Curated and categorized.  
 
 | :link: | :link: | :link: | :link: |
 | --- | --- | --- | --- |
@@ -76,6 +76,8 @@ https://github.com/rentzsch/jrswizzle
 #### Color
 __color__ \ A collection of categories and utilities that extend UIColor  
 https://github.com/thisandagain/color  
+__ios-sample-blender__ \ Sample code for the Blending Modes blog post  
+https://github.com/thoughtbot/ios-sample-blender  
 #### Filter
 __GPUImage__ \ An open source iOS framework for GPU-based image and video processing  
 https://github.com/BradLarson/GPUImage  
@@ -100,6 +102,8 @@ __chisel__ \ Chisel is a collection of LLDB commands to assist debugging iOS app
 https://github.com/facebook/chisel  
 __DCIntrospect__ \ Small library of visual debugging tools for iOS. http://domesticcat.com.au/projects/introspect  
 https://github.com/domesticcatsoftware/DCIntrospect  
+__PonyDebugger__ \ Remote network and data debugging for your native iOS app using Chrome Developer Tools  
+https://github.com/square/PonyDebugger  
 
 ## Data
 #### Core Data
@@ -113,6 +117,9 @@ https://github.com/AFNetworking/AFNetworking
 #### Mocks / Stubs
 __objc-mocktail__ \ A simple(r) way to stub out HTTP servers in your Objective-C app
 https://github.com/square/objc-mocktail  
+#### Realtime
+__SocketRocket__ \ A conforming Objective-C WebSocket client library.  
+https://github.com/square/SocketRocket
 
 ## Animation / Interactions
 #### CADisplayLink
@@ -154,7 +161,14 @@ https://github.com/shiffman/The-Nature-of-Code
 ### Notifications
 ### Controls
 ### Displays
+#### Calendar
+__objc-TimesSquare__ \ TimesSquare is an Objective-C calendar view for your apps.  
+https://github.com/square/objc-TimesSquare  
 ### Keyboard
+__HTAutocompleteTextField__  
+https://github.com/hoteltonight/HTAutocompleteTextField  
+__JVFloatLabeledTextField__ \ UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users  
+https://github.com/jverdi/JVFloatLabeledTextField  
 ### Scrollable
 __LXReorderableCollectionViewFlowLayout__ \ Extends `UICollectionViewFlowLayout` to support reordering of cells. Similar to long press and pan on books in iBook.  
 https://github.com/lxcid/LXReorderableCollectionViewFlowLayout  
@@ -165,6 +179,8 @@ __liftoff__ \ CLI for configuring opinionated defaults on new Xcode projects
 https://github.com/thoughtbot/liftoff  
 
 ## Xcode
+__objc-codegenutils__ \ Three small tools to help you meet Xcode halfway.  
+https://github.com/square/objc-codegenutils  
 #### Color
 __ColorSense-for-Xcode__ \ Plugin for Xcode to make working with colors more visual  
 https://github.com/omz/ColorSense-for-Xcode  
