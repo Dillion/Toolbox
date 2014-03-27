@@ -10,7 +10,7 @@ List of open source, heavily iOS related stuff. Curated and categorized.
 | [Debugging](#debugging) | [Data](#data) | [Networking](#networking) | [Animation / Interactions](#animation--interactions) |
 | [Resource Helper](#resource-helper) | [iTunes / Payment](#itunes--payment) | [Audio](#audio) | [Physics / AI](#physics--ai) |
 | [References](#references) | [UI Components](#ui-components) | [Templating / Automation](#templating--automation) | [Xcode](#xcode) |
-| [Server](#server) | [Versioning](#versioning) | | |
+| [Server](#server) | [Versioning](#versioning) | [Demo](#demo) | |
 
 ## Text and Publishing
 #### Text
@@ -36,6 +36,9 @@ https://github.com/TheLevelUp/ZXingObjC
 #### OCR
 __Tesseract-iPhone-Demo__ \ Demo iPhone app utilizing the tesseract library for OCR  
 https://github.com/nolanbrown/Tesseract-iPhone-Demo  
+#### iBeacon
+__BeaconEmitter__ \ Turn your Mac as an iBeacon  
+https://github.com/lgaches/BeaconEmitter  
 
 ## Security
 
@@ -206,3 +209,8 @@ https://github.com/brandonhilkert/fucking_shell_scripts
 #### Git
 __gitignore__ \ A collection of useful .gitignore templates  
 https://github.com/github/gitignore  
+
+## Demo
+#### Touch Simulation
+__NRTouchPoints__ \ UIWindow subclass that simulates users touches on screen  
+https://github.com/natanrolnik/NRTouchPoints  
