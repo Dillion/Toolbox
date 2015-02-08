@@ -49,11 +49,11 @@ https://github.com/lgaches/BeaconEmitter
 
 --
 ### Security
-[[top]](#toolbox) 
+[[top]](#toolbox)  
 
 --
 ### Algorithms / Techniques
-[[top]](#toolbox) 
+[[top]](#toolbox)  
 ##### Data structure
 __nedtries__ \ A portable in-place bitwise binary Fredkin trie algorithm which allows for near constant time insertions, deletions, finds, closest fit finds and iteration  
 https://github.com/ned14/nedtries  
@@ -88,7 +88,7 @@ https://github.com/rentzsch/jrswizzle
 
 --
 ### Effects / Drawing
-[[top]](#toolbox) 
+[[top]](#toolbox)  
 ##### Color
 __color__ \ A collection of categories and utilities that extend UIColor  
 https://github.com/thisandagain/color  
@@ -111,15 +111,15 @@ https://github.com/facebook/Shimmer
 
 --
 ### Analytics / Infographics
-[[top]](#toolbox) 
+[[top]](#toolbox)  
 
 --
 ### Ads / Rating
-[[top]](#toolbox) 
+[[top]](#toolbox)  
 
 --
 ### Debugging
-[[top]](#toolbox) 
+[[top]](#toolbox)  
 __chisel__ \ Chisel is a collection of LLDB commands to assist debugging iOS apps.  
 https://github.com/facebook/chisel  
 __DCIntrospect__ \ Small library of visual debugging tools for iOS. http://domesticcat.com.au/projects/introspect  
@@ -129,7 +129,7 @@ https://github.com/square/PonyDebugger
 
 --
 ### Data
-[[top]](#toolbox) 
+[[top]](#toolbox)  
 ##### Core Data
 __MagicalRecord__ \ Super Awesome Easy Fetching for Core Data 1!!!11!!!!1!  
 https://github.com/magicalpanda/MagicalRecord  
@@ -137,24 +137,28 @@ https://github.com/magicalpanda/MagicalRecord
 __fmdb__ \ A Cocoa / Objective-C wrapper around SQLite  
 https://github.com/ccgus/fmdb  
 
-## Networking
-#### REST
+--
+### Networking
+[[top]](#toolbox)  
+##### REST
 __AFNetworking__ \ A delightful iOS and OS X networking framework  
 https://github.com/AFNetworking/AFNetworking  
-#### Mocks / Stubs
+##### Mocks / Stubs
 __objc-mocktail__ \ A simple(r) way to stub out HTTP servers in your Objective-C app
 https://github.com/square/objc-mocktail  
-#### Realtime
+##### Realtime
 __SocketRocket__ \ A conforming Objective-C WebSocket client library.  
 https://github.com/square/SocketRocket  
 __XMPPFramework__ \ An XMPP Framework in Objective-C for Mac and iOS  
 https://github.com/robbiehanson/XMPPFramework  
 
-## Animation / Interactions
-#### CADisplayLink
+--
+### Animation / Interactions
+[[top]](#toolbox)  
+##### CADisplayLink
 __TISpringLoadedViews__ \ Some UIView subclasses which behave as though they're attached to a spring  
 https://github.com/thermogl/TISpringLoadedViews  
-#### Examples
+##### Examples
 __hamburger-button__ \ A hamburger button transition (SWIFT)
 http://robb.is/working-on/a-hamburger-button-transition/  
 https://github.com/robb/hamburger-button  
@@ -162,103 +166,131 @@ __HamburgerButton__ \ Hamburger button with a slick animation. (SWIFT)
 http://holko.pl/2014/07/15/hamburger-button-animation/  
 https://github.com/fastred/HamburgerButton  
 
-## Resource Helper
-#### Images
+--
+### Resource Helper
+[[top]](#toolbox)  
+##### Images
 __iOS-Artwork-Extractor__ \ Extract iOS artwork and emoji symbols into png files, generate glossy buttons png files  
 https://github.com/0xced/iOS-Artwork-Extractor  
 
-## iTunes / Payment
-#### InApp
+--
+### iTunes / Payment
+[[top]](#toolbox)  
+##### InApp
 __CargoBay__ \ The Essential StoreKit Companion  
 https://github.com/mattt/CargoBay  
 
-## Audio
-#### OpenAL
+--
+### Audio
+[[top]](#toolbox)  
+##### OpenAL
 __Finch__ \ Simple, low-latency OpenAL sound engine for Apple iOS  
 https://github.com/zoul/Finch  
-#### Core Audio
+##### Core Audio
 __TheAmazingAudioEngine__ \ Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to  
 https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine  
 
-## Physics / AI
+--
+### Physics / AI
+[[top]](#toolbox)  
 __CMTraerPhysics__ \ Objective-C/Cocoa port of the Traer v3.0 physics engine; with iOS demo app  
 https://github.com/chrismiles/CMTraerPhysics  
 __Chipmunk2D__ \ A fast and lightweight 2D game physics library  
 https://github.com/slembcke/Chipmunk2D  
 
-## References
-#### Books
+--
+### References
+[[top]](#toolbox)  
+##### Books
 __CleverAlgorithms__ \ An open source book that describes a large number of algorithmic techniques from the the fields of Biologically Inspired Computation, Computational Intelligence and Metaheuristics in a complete, consistent, and centralized manner such that they are accessible, usable, and understandable.  
 https://github.com/jbrownlee/CleverAlgorithms  
 __The-Nature-of-Code__ \ Raw source of The Nature of Code book as well as Processing examples  
 https://github.com/shiffman/The-Nature-of-Code  
-#### Papers
+##### Papers
 __papers-we-love__ \ Papers from the computer science community to read and discuss. https://twitter.com/papers_we_love  
 https://github.com/papers-we-love/papers-we-love  
 
-## UI Components
-### Notifications
+--
+### UI Components
+[[top]](#toolbox)  
+#### Notifications
 __CRToast__ \ A modern iOS toast view that can fit your notification needs  
 https://github.com/cruffenach/CRToast  
 
-### Controls
+#### Controls
 __SMPageControl__ \ A drop in replacement for UIPageControl with a slew of additional customization options.  
 https://github.com/Spaceman-Labs/SMPageControl  
-### Displays
-#### Calendar
+#### Displays
+##### Calendar
 __objc-TimesSquare__ \ TimesSquare is an Objective-C calendar view for your apps.  
 https://github.com/square/objc-TimesSquare  
-### Keyboard
+##### Keyboard
 __HTAutocompleteTextField__  
 https://github.com/hoteltonight/HTAutocompleteTextField  
 __JVFloatLabeledTextField__ \ UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users  
 https://github.com/jverdi/JVFloatLabeledTextField  
-### Scrollable
+#### Scrollable
 __LXReorderableCollectionViewFlowLayout__ \ Extends `UICollectionViewFlowLayout` to support reordering of cells. Similar to long press and pan on books in iBook.  
 https://github.com/lxcid/LXReorderableCollectionViewFlowLayout  
-### Navigation
+#### Navigation
 __ECSlidingViewController__ \ Customizable sliding view controller container.  
 https://github.com/ECSlidingViewController/ECSlidingViewController  
 
-## Templating / Automation
+--
+### Templating / Automation
+[[top]](#toolbox)  
 __liftoff__ \ CLI for configuring opinionated defaults on new Xcode projects  
 https://github.com/thoughtbot/liftoff  
 
-## Xcode
+--
+### Xcode
+[[top]](#toolbox)  
 __objc-codegenutils__ \ Three small tools to help you meet Xcode halfway.  
 https://github.com/square/objc-codegenutils  
-#### Color
+##### Color
 __ColorSense-for-Xcode__ \ Plugin for Xcode to make working with colors more visual  
 https://github.com/omz/ColorSense-for-Xcode  
 __XcodeColors__ \ XcodeColors allows you to use colors in the Xcode debugging console. It's designed to aid in the debugging process.  
 https://github.com/robbiehanson/XcodeColors  
 
-## Server
+--
+### Server
+[[top]](#toolbox)  
 __fucking_shell_scripts__ \ The easiest, most common sense configuration management tool... because you just use fucking shell scripts.
 http://fuckingshellscripts.org  
 https://github.com/brandonhilkert/fucking_shell_scripts  
 
-## Versioning
-#### Git
+--
+### Versioning
+[[top]](#toolbox)  
+##### Git
 __gitignore__ \ A collection of useful .gitignore templates  
 https://github.com/github/gitignore  
 
-## Demo
-#### Touch Simulation
+--
+### Demo
+[[top]](#toolbox)  
+##### Touch Simulation
 __NRTouchPoints__ \ UIWindow subclass that simulates users touches on screen  
 https://github.com/natanrolnik/NRTouchPoints  
 __COSTouchVisualizer__ \ Visualize touches, gestures and long presses on your iPhone or iPad  
 https://github.com/conopsys/COSTouchVisualizer  
 
-## Prototyping
+--
+### Prototyping
+[[top]](#toolbox)  
 __Tweaks__ \ An easy way to fine-tune, and adjust parameters for iOS apps in development.  
 https://github.com/facebook/Tweaks  
 https://github.com/kitschpatrol/Tweaks (remote triggering)  
 
-## Notifications
+--
+### Notifications
+[[top]](#toolbox)  
 __ios-deeplink-sdk__ \ A splendid route-matching, block-based way to handle your deep links. http://www.usebutton.com/sdk/deep-links  
 https://github.com/usebutton/ios-deeplink-sdk  
 
-## Swift ports
+--
+### Swift ports
+[[top]](#toolbox)  
 __SwiftGraphics__ \ Bringing Swift goodness to Quartz.  
 https://github.com/schwa/SwiftGraphics  
