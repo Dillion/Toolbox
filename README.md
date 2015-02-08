@@ -15,6 +15,7 @@ List of open source, heavily iOS related stuff. Curated and categorized.
 
 ### Text and Publishing
 [top](#toolbox)  
+--
 ##### Text
 __DTCoreText__ \ Methods to allow using HTML code with CoreText  
 https://github.com/Cocoanetics/DTCoreText  
@@ -24,8 +25,10 @@ https://github.com/raphaelschaad/iOSFontList
 __Greenwich__ \ A Cocoa framework for localization  
 https://github.com/fadingred/Greenwich  
 
-## External Services / Sharing
-#### LinkedIn
+### External Services / Sharing
+[top](#toolbox)  
+--
+##### LinkedIn
 __LinkedIn-OAuth-Sample-Client__  
 https://github.com/synedra/LinkedIn-OAuth-Sample-Client  
 
