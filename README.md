@@ -13,8 +13,7 @@ List of open source, heavily iOS related stuff. Curated and categorized.
 | [Server](#server) | [Versioning](#versioning) | [Demo](#demo) | [Prototyping](#prototyping) |
 | [Notifications](#notifications) | [Swift ports](#swift-ports) | | |
 
-## Text and Publishing
-[top](#toolbox)  
+## Text and Publishing [top](#toolbox)  
 #### Text
 __DTCoreText__ \ Methods to allow using HTML code with CoreText  
 https://github.com/Cocoanetics/DTCoreText  
