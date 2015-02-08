@@ -6,7 +6,7 @@ List of open source, heavily iOS related stuff. Curated and categorized.
 | :link: | :link: | :link: | :link: |
 | --- | --- | --- | --- |
 | [Text and Publishing](#text-and-publishing) | [External Services / Sharing](#external-services--sharing) | [Hardware / Sensor](#hardware--sensor) | [Security](#security) |
-| [Algorithms, Techniques](#function-helper) | [Effects / Drawing](#effects--drawing) | [Analytics / Infographics](#analytics--infographics) | [Ads / Rating](#ads--rating) |
+| [Algorithms, Techniques](#algorithms, techniques) | [Effects / Drawing](#effects--drawing) | [Analytics / Infographics](#analytics--infographics) | [Ads / Rating](#ads--rating) |
 | [Debugging](#debugging) | [Data](#data) | [Networking](#networking) | [Animation / Interactions](#animation--interactions) |
 | [Resource, Asset helpers](#resource-helper) | [iTunes / Payment](#itunes--payment) | [Audio](#audio) | [Physics / AI](#physics--ai) |
 | [References](#references) | [UI Components](#ui-components) | [Templating / Automation](#templating--automation) | [Xcode / deployment](#xcode) |
@@ -47,7 +47,7 @@ https://github.com/lgaches/BeaconEmitter
 
 ## Security
 
-## Function Helper
+## Algorithms, Techniques
 #### Data structure
 __nedtries__ \ A portable in-place bitwise binary Fredkin trie algorithm which allows for near constant time insertions, deletions, finds, closest fit finds and iteration  
 https://github.com/ned14/nedtries  
