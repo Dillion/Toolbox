@@ -8,10 +8,10 @@ List of open source, heavily iOS related stuff. Curated and categorized.
 | [Text and Publishing](#text-and-publishing) | [External Services / Sharing](#external-services--sharing) | [Hardware / Sensor](#hardware--sensor) | [Security](#security) |
 | [Algorithms / Techniques](#algorithms--techniques) | [Effects / Drawing](#effects--drawing) | [Analytics / Infographics](#analytics--infographics) | [Ads / Rating](#ads--rating) |
 | [Debugging](#debugging) | [Data](#data) | [Networking](#networking) | [Animation / Interactions](#animation--interactions) |
-| [Resource, Asset helpers](#resource-helper) | [iTunes / Payment](#itunes--payment) | [Audio](#audio) | [Physics / AI](#physics--ai) |
-| [References](#references) | [UI Components](#ui-components) | [Templating / Automation](#templating--automation) | [Xcode / deployment](#xcode) |
+| [Resource / Asset helpers](#resource--asset-helpers) | [iTunes / Payment](#itunes--payment) | [Audio](#audio) | [Physics / AI](#physics--ai) |
+| [References](#references) | [UI Components](#ui-components) | [Templating / Automation](#templating--automation) | [Xcode / Deployment](#xcode--deployment) |
 | [Server](#server) | [Versioning](#versioning) | [Demo](#demo) | [Prototyping](#prototyping) |
-| [Notifications](#notifications) | [Swift ports](#swift-ports) | | |
+| [Notifications](#notifications) | [Swift ports](#swift-ports) | [Testing](#testing) | [Layout](#layout) |
 
 --
 ### Text and Publishing
@@ -167,7 +167,7 @@ http://holko.pl/2014/07/15/hamburger-button-animation/
 https://github.com/fastred/HamburgerButton  
 
 --
-### Resource Helper
+### Resource / Asset helpers
 [[top]](#toolbox)  
 ##### Images
 __iOS-Artwork-Extractor__ \ Extract iOS artwork and emoji symbols into png files, generate glossy buttons png files  
@@ -243,7 +243,7 @@ __liftoff__ \ CLI for configuring opinionated defaults on new Xcode projects
 https://github.com/thoughtbot/liftoff  
 
 --
-### Xcode
+### Xcode / Deployment
 [[top]](#toolbox)  
 __objc-codegenutils__ \ Three small tools to help you meet Xcode halfway.  
 https://github.com/square/objc-codegenutils  
@@ -294,3 +294,20 @@ https://github.com/usebutton/ios-deeplink-sdk
 [[top]](#toolbox)  
 __SwiftGraphics__ \ Bringing Swift goodness to Quartz.  
 https://github.com/schwa/SwiftGraphics  
+
+--
+### Testing
+[[top]](#toolbox)  
+__Kiwi__ \ BDD for iOS  
+https://github.com/kiwi-bdd/Kiwi  
+__KIF__ \ Keep It Functional - An iOS Functional Testing Framework  
+https://github.com/kif-framework/KIF  
+__appium__ \ Automation for iOS and Android Apps. http://appium.io  
+https://github.com/appium/appium  
+
+--
+### Layout
+[[top]](#toolbox)  
+##### AutoLayout
+__PureLayout__ \ The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.  
+https://github.com/smileyborg/PureLayout  
