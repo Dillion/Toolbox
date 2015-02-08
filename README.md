@@ -27,35 +27,41 @@ https://github.com/fadingred/Greenwich
 
 --
 ### External Services / Sharing
-[top](#toolbox)  
+[[top]](#toolbox)  
 ##### LinkedIn
 __LinkedIn-OAuth-Sample-Client__  
 https://github.com/synedra/LinkedIn-OAuth-Sample-Client  
 
-## Hardware / Sensor
-#### QR / barcode
+--
+### Hardware / Sensor
+[[top]](#toolbox)  
+##### QR / barcode
 __ZBarSDK.Framework__ \ Build script to create a .Framework for the ZBarSDK  
 https://github.com/echoz/ZBarSDK.Framework  
 __ZXingObjC__ \ An Objective-C Port of ZXing  
 https://github.com/TheLevelUp/ZXingObjC  
-#### OCR
+##### OCR
 __Tesseract-iPhone-Demo__ \ Demo iPhone app utilizing the tesseract library for OCR  
 https://github.com/nolanbrown/Tesseract-iPhone-Demo  
-#### iBeacon
+##### iBeacon
 __BeaconEmitter__ \ Turn your Mac as an iBeacon  
 https://github.com/lgaches/BeaconEmitter  
 
-## Security
+--
+### Security
+[[top]](#toolbox) 
 
-## Algorithms / Techniques
-#### Data structure
+--
+### Algorithms / Techniques
+[[top]](#toolbox) 
+##### Data structure
 __nedtries__ \ A portable in-place bitwise binary Fredkin trie algorithm which allows for near constant time insertions, deletions, finds, closest fit finds and iteration  
 https://github.com/ned14/nedtries  
 __digraph__ \ weighted directed graph data structure written in Object-C  
 https://github.com/aq1018/digraph  
 __dawggenerator__ \ Fast directed acyclic word graph generator  
 https://github.com/chalup/dawggenerator  
-#### Geometry
+##### Geometry
 __delaunay-ios__ \ Delaunay and Voronoi diagram generators ported to iOS. Includes Fortune's algorithm for Voronoi generation  
 https://github.com/czgarrett/delaunay-ios  
 __ConvexHull__ \ Javascript implementation of Andrew's Monotone Chain convex hull algorithm  
@@ -66,32 +72,34 @@ __theseus__ \ A very flexible random maze generator, solver, and renderer for Ru
 https://github.com/jamis/theseus  
 __ShapeReducer-objc__ \ Path optimization using the Douglas-Peucker Line Approximation Algorithm in Objective C  
 https://github.com/tomislav/ShapeReducer-objc  
-#### Graphics
+##### Graphics
 __separable-sss__ \ Separable Subsurface Scattering is a technique that allows to efficiently perform subsurface scattering calculations in screen space in just two passes  
 https://github.com/iryoku/separable-sss  
 __smaa__ \ SMAA is a very efficient GPU-based MLAA implementation (DX9, DX10, DX11 and OpenGL), capable of handling subpixel features seamlessly, and featuring an improved and advanced pattern detection & handling mechanism  
 https://github.com/iryoku/smaa  
 __OpenSubdiv__ \ An Open-Source subdivision surface library  
 https://github.com/PixarAnimationStudios/OpenSubdiv  
-#### Pattern recognition
+##### Pattern recognition
 __BayesianKit__ \ A Cocoa framework implementing a bayesian classifier
 https://github.com/lok/BayesianKit  
-#### Swizzling
+##### Swizzling
 __jrswizzle__ \ one-stop-shop for all your method swizzling needs  
 https://github.com/rentzsch/jrswizzle  
 
-## Effects / Drawing
-#### Color
+--
+### Effects / Drawing
+[[top]](#toolbox) 
+##### Color
 __color__ \ A collection of categories and utilities that extend UIColor  
 https://github.com/thisandagain/color  
 __ios-sample-blender__ \ Sample code for the Blending Modes blog post  
 https://github.com/thoughtbot/ios-sample-blender  
-#### Filter
+##### Filter
 __GPUImage__ \ An open source iOS framework for GPU-based image and video processing  
 https://github.com/BradLarson/GPUImage  
 __vImageCategory__ \ UIImage category which have vImage wrapper functions and the demo project  
 https://github.com/shu223/vImageCategory  
-#### Lighting
+##### Lighting
 __iOS-Adaptive-Metal-Knob__ \ A knob made in iOS that simulates real-time reflection updates on a brushed metal surface  
 https://github.com/mobilerengler/iOS-Adaptive-Metal-Knob  
 __DAAnisotropicImage__ \ DAAnisotropicImage is an anisotropic UIImage generator. Specifically, for a metallic slider knob.  
@@ -101,11 +109,17 @@ https://github.com/Spaceman-Labs/ShadowedLayer
 __Shimmer__ \ An easy way to add a simple shimmering effect to any view in an iOS app, which is particularly useful as an unobtrusive loading indicator.  
 https://github.com/facebook/Shimmer  
 
-## Analytics / Infographics
+--
+### Analytics / Infographics
+[[top]](#toolbox) 
 
-## Ads / Rating
+--
+### Ads / Rating
+[[top]](#toolbox) 
 
-## Debugging
+--
+### Debugging
+[[top]](#toolbox) 
 __chisel__ \ Chisel is a collection of LLDB commands to assist debugging iOS apps.  
 https://github.com/facebook/chisel  
 __DCIntrospect__ \ Small library of visual debugging tools for iOS. http://domesticcat.com.au/projects/introspect  
@@ -113,11 +127,13 @@ https://github.com/domesticcatsoftware/DCIntrospect
 __PonyDebugger__ \ Remote network and data debugging for your native iOS app using Chrome Developer Tools  
 https://github.com/square/PonyDebugger  
 
-## Data
-#### Core Data
+--
+### Data
+[[top]](#toolbox) 
+##### Core Data
 __MagicalRecord__ \ Super Awesome Easy Fetching for Core Data 1!!!11!!!!1!  
 https://github.com/magicalpanda/MagicalRecord  
-#### SQLite
+##### SQLite
 __fmdb__ \ A Cocoa / Objective-C wrapper around SQLite  
 https://github.com/ccgus/fmdb  
 
