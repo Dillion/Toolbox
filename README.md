@@ -15,6 +15,7 @@ List of open source, heavily iOS related stuff. Curated and categorized.
 
 ## Text and Publishing
 #### Text
+[top](#Toolbox)
 __DTCoreText__ \ Methods to allow using HTML code with CoreText  
 https://github.com/Cocoanetics/DTCoreText  
 __iOSFontList__ \ Displays all available font names and families on iOS in their corresponding font  
@@ -178,6 +179,9 @@ https://github.com/papers-we-love/papers-we-love
 
 ## UI Components
 ### Notifications
+__CRToast__ \ A modern iOS toast view that can fit your notification needs  
+https://github.com/cruffenach/CRToast  
+
 ### Controls
 __SMPageControl__ \ A drop in replacement for UIPageControl with a slew of additional customization options.  
 https://github.com/Spaceman-Labs/SMPageControl  
