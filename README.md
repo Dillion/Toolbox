@@ -138,7 +138,7 @@ https://github.com/thermogl/TISpringLoadedViews
 __hamburger-button__ \ A hamburger button transition (SWIFT)
 http://robb.is/working-on/a-hamburger-button-transition/  
 https://github.com/robb/hamburger-button  
-__HamburgerButton__ \ Hamburger button with a slick animation. 
+__HamburgerButton__ \ Hamburger button with a slick animation. (SWIFT)
 http://holko.pl/2014/07/15/hamburger-button-animation/  
 https://github.com/fastred/HamburgerButton  
 
@@ -233,10 +233,9 @@ https://github.com/facebook/Tweaks
 https://github.com/kitschpatrol/Tweaks (remote triggering)  
 
 ## Notifications
-__ios-deeplink-sdk__ \ A splendid route-matching, block-based way to handle your deep links.
-http://www.usebutton.com/sdk/deep-links  
+__ios-deeplink-sdk__ \ A splendid route-matching, block-based way to handle your deep links. http://www.usebutton.com/sdk/deep-links  
 https://github.com/usebutton/ios-deeplink-sdk  
 
 ## Swift ports
-__SwiftGraphics__ \ Bringing Swift goodness to Quartz.
+__SwiftGraphics__ \ Bringing Swift goodness to Quartz.  
 https://github.com/schwa/SwiftGraphics  
