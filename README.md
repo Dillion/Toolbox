@@ -1,8 +1,6 @@
 Toolbox
 =======
 
-List of open source, heavily iOS related stuff. Curated and categorized.  
-
 | :link: | :link: | :link: | :link: |
 | --- | --- | --- | --- |
 | [Text and Publishing](#text-and-publishing) | [External Services / Sharing](#external-services--sharing) | [Hardware / Sensor](#hardware--sensor) | [Security](#security) |
@@ -85,6 +83,10 @@ https://github.com/lok/BayesianKit
 ##### Swizzling
 __jrswizzle__ \ one-stop-shop for all your method swizzling needs  
 https://github.com/rentzsch/jrswizzle  
+##### Promises
+__Bolts-iOS__ \ Bolts is a collection of low-level libraries designed to make developing mobile apps easier.
+http://boltsframework.github.io/docs/ios/  
+https://github.com/BoltsFramework/Bolts-iOS  
 
 --
 ### Effects / Drawing
@@ -304,10 +306,12 @@ __KIF__ \ Keep It Functional - An iOS Functional Testing Framework
 https://github.com/kif-framework/KIF  
 __appium__ \ Automation for iOS and Android Apps. http://appium.io  
 https://github.com/appium/appium  
+__frankencover.it__ \ Code coverage for iOS and OSX.  
+https://github.com/appsquickly/frankencover.it  
 
 --
 ### Layout
 [[top]](#toolbox)  
-##### AutoLayout
+##### Auto Layout
 __PureLayout__ \ The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.  
 https://github.com/smileyborg/PureLayout  
