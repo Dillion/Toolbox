@@ -6,11 +6,12 @@ List of open source, heavily iOS related stuff. Curated and categorized.
 | :link: | :link: | :link: | :link: |
 | --- | --- | --- | --- |
 | [Text and Publishing](#text-and-publishing) | [External Services / Sharing](#external-services--sharing) | [Hardware / Sensor](#hardware--sensor) | [Security](#security) |
-| [Function Helper](#function-helper) | [Effects / Drawing](#effects--drawing) | [Analytics / Infographics](#analytics--infographics) | [Ads / Rating](#ads--rating) |
+| [Algorithms, Techniques](#function-helper) | [Effects / Drawing](#effects--drawing) | [Analytics / Infographics](#analytics--infographics) | [Ads / Rating](#ads--rating) |
 | [Debugging](#debugging) | [Data](#data) | [Networking](#networking) | [Animation / Interactions](#animation--interactions) |
-| [Resource Helper](#resource-helper) | [iTunes / Payment](#itunes--payment) | [Audio](#audio) | [Physics / AI](#physics--ai) |
-| [References](#references) | [UI Components](#ui-components) | [Templating / Automation](#templating--automation) | [Xcode](#xcode) |
+| [Resource, Asset helpers](#resource-helper) | [iTunes / Payment](#itunes--payment) | [Audio](#audio) | [Physics / AI](#physics--ai) |
+| [References](#references) | [UI Components](#ui-components) | [Templating / Automation](#templating--automation) | [Xcode / deployment](#xcode) |
 | [Server](#server) | [Versioning](#versioning) | [Demo](#demo) | [Prototyping](#prototyping) |
+| [Notifications](#notifications) | [Swift ports](#swift-ports) | | |
 
 ## Text and Publishing
 #### Text
@@ -133,6 +134,13 @@ https://github.com/robbiehanson/XMPPFramework
 #### CADisplayLink
 __TISpringLoadedViews__ \ Some UIView subclasses which behave as though they're attached to a spring  
 https://github.com/thermogl/TISpringLoadedViews  
+#### Examples
+__hamburger-button__ \ A hamburger button transition (SWIFT)
+http://robb.is/working-on/a-hamburger-button-transition/  
+https://github.com/robb/hamburger-button  
+__HamburgerButton__ \ Hamburger button with a slick animation. 
+http://holko.pl/2014/07/15/hamburger-button-animation/  
+https://github.com/fastred/HamburgerButton  
 
 ## Resource Helper
 #### Images
@@ -186,6 +194,8 @@ https://github.com/jverdi/JVFloatLabeledTextField
 __LXReorderableCollectionViewFlowLayout__ \ Extends `UICollectionViewFlowLayout` to support reordering of cells. Similar to long press and pan on books in iBook.  
 https://github.com/lxcid/LXReorderableCollectionViewFlowLayout  
 ### Navigation
+__ECSlidingViewController__ \ Customizable sliding view controller container.  
+https://github.com/ECSlidingViewController/ECSlidingViewController  
 
 ## Templating / Automation
 __liftoff__ \ CLI for configuring opinionated defaults on new Xcode projects  
@@ -214,7 +224,19 @@ https://github.com/github/gitignore
 #### Touch Simulation
 __NRTouchPoints__ \ UIWindow subclass that simulates users touches on screen  
 https://github.com/natanrolnik/NRTouchPoints  
+__COSTouchVisualizer__ \ Visualize touches, gestures and long presses on your iPhone or iPad  
+https://github.com/conopsys/COSTouchVisualizer  
 
 ## Prototyping
 __Tweaks__ \ An easy way to fine-tune, and adjust parameters for iOS apps in development.  
-https://github.com/facebook/Tweaks  https://github.com/kitschpatrol/Tweaks (remote triggering)  
+https://github.com/facebook/Tweaks  
+https://github.com/kitschpatrol/Tweaks (remote triggering)  
+
+## Notifications
+__ios-deeplink-sdk__ \ A splendid route-matching, block-based way to handle your deep links.
+http://www.usebutton.com/sdk/deep-links  
+https://github.com/usebutton/ios-deeplink-sdk  
+
+## Swift ports
+__SwiftGraphics__ \ Bringing Swift goodness to Quartz.
+https://github.com/schwa/SwiftGraphics  
