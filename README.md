@@ -10,7 +10,7 @@ List of open source, heavily iOS related stuff. Curated and categorized.
 | [Debugging](#debugging) | [Data](#data) | [Networking](#networking) | [Animation / Interactions](#animation--interactions) |
 | [Resource Helper](#resource-helper) | [iTunes / Payment](#itunes--payment) | [Audio](#audio) | [Physics / AI](#physics--ai) |
 | [References](#references) | [UI Components](#ui-components) | [Templating / Automation](#templating--automation) | [Xcode](#xcode) |
-| [Server](#server) | [Versioning](#versioning) | [Demo](#demo) | |
+| [Server](#server) | [Versioning](#versioning) | [Demo](#demo) | [Prototyping](#prototyping) |
 
 ## Text and Publishing
 #### Text
@@ -214,3 +214,7 @@ https://github.com/github/gitignore
 #### Touch Simulation
 __NRTouchPoints__ \ UIWindow subclass that simulates users touches on screen  
 https://github.com/natanrolnik/NRTouchPoints  
+
+## Prototyping
+__Tweaks__ \ An easy way to fine-tune, and adjust parameters for iOS apps in development.  
+https://github.com/facebook/Tweaks  https://github.com/kitschpatrol/Tweaks (remote triggering)  
