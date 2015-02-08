@@ -13,13 +13,14 @@ List of open source, heavily iOS related stuff. Curated and categorized.
 | [Server](#server) | [Versioning](#versioning) | [Demo](#demo) | [Prototyping](#prototyping) |
 | [Notifications](#notifications) | [Swift ports](#swift-ports) | | |
 
-## Text and Publishing [top](#toolbox)  
-#### Text
+### Text and Publishing
+[top](#toolbox)  
+##### Text
 __DTCoreText__ \ Methods to allow using HTML code with CoreText  
 https://github.com/Cocoanetics/DTCoreText  
 __iOSFontList__ \ Displays all available font names and families on iOS in their corresponding font  
 https://github.com/raphaelschaad/iOSFontList  
-#### Localization
+##### Localization
 __Greenwich__ \ A Cocoa framework for localization  
 https://github.com/fadingred/Greenwich  
 
