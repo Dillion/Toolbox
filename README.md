@@ -87,6 +87,9 @@ https://github.com/rentzsch/jrswizzle
 __Bolts-iOS__ \ Bolts is a collection of low-level libraries designed to make developing mobile apps easier.
 http://boltsframework.github.io/docs/ios/  
 https://github.com/BoltsFramework/Bolts-iOS  
+##### String
+__StringScore__ \ StringScore is an Objective-C library which provides super fast fuzzy string matching/scoring. Based on the JavaScript library of the same name.  
+https://github.com/thetron/StringScore  
 
 --
 ### Effects / Drawing
@@ -226,17 +229,27 @@ https://github.com/Spaceman-Labs/SMPageControl
 ##### Calendar
 __objc-TimesSquare__ \ TimesSquare is an Objective-C calendar view for your apps.  
 https://github.com/square/objc-TimesSquare  
-##### Keyboard
+##### Map
+__calloutview__ \ A lightweight callout view class for iOS mimicking UICalloutView. http://nfarina.com/post/78014139253/smcalloutview-for-ios-7  
+https://github.com/nfarina/calloutview  
+#### Keyboard
 __HTAutocompleteTextField__  
 https://github.com/hoteltonight/HTAutocompleteTextField  
 __JVFloatLabeledTextField__ \ UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users  
 https://github.com/jverdi/JVFloatLabeledTextField  
+__RPFloatingPlaceholders__ \ UITextField and UITextView subclasses with placeholders that change into floating labels when the fields are populated with text. http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction  
+https://github.com/iwasrobbed/RPFloatingPlaceholders  
 #### Scrollable
 __LXReorderableCollectionViewFlowLayout__ \ Extends `UICollectionViewFlowLayout` to support reordering of cells. Similar to long press and pan on books in iBook.  
 https://github.com/lxcid/LXReorderableCollectionViewFlowLayout  
 #### Navigation
 __ECSlidingViewController__ \ Customizable sliding view controller container.  
 https://github.com/ECSlidingViewController/ECSlidingViewController  
+#### Scrollable
+__LXReorderableCollectionViewFlowLayout__ \ Extends `UICollectionViewFlowLayout` to support reordering of cells. Similar to long press and pan on books in iBook.  
+https://github.com/lxcid/LXReorderableCollectionViewFlowLayout  
+__UITableViewCell-Swipe-for-Options__ \ A reproduction of the iOS 7 Mail app's swipe-to-reveal options http://www.teehanlax.com/blog/reproducing-the-ios-7-mail-apps-interface/  
+https://github.com/TeehanLax/UITableViewCell-Swipe-for-Options  
 
 --
 ### Templating / Automation
