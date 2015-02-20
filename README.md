@@ -239,9 +239,6 @@ __JVFloatLabeledTextField__ \ UITextField subclass with floating labels - inspir
 https://github.com/jverdi/JVFloatLabeledTextField  
 __RPFloatingPlaceholders__ \ UITextField and UITextView subclasses with placeholders that change into floating labels when the fields are populated with text. http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction  
 https://github.com/iwasrobbed/RPFloatingPlaceholders  
-#### Scrollable
-__LXReorderableCollectionViewFlowLayout__ \ Extends `UICollectionViewFlowLayout` to support reordering of cells. Similar to long press and pan on books in iBook.  
-https://github.com/lxcid/LXReorderableCollectionViewFlowLayout  
 #### Navigation
 __ECSlidingViewController__ \ Customizable sliding view controller container.  
 https://github.com/ECSlidingViewController/ECSlidingViewController  
