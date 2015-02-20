@@ -70,6 +70,8 @@ __theseus__ \ A very flexible random maze generator, solver, and renderer for Ru
 https://github.com/jamis/theseus  
 __ShapeReducer-objc__ \ Path optimization using the Douglas-Peucker Line Approximation Algorithm in Objective C  
 https://github.com/tomislav/ShapeReducer-objc  
+__PerformanceBezier__ \ A small library to dramatically speed up common operations on UIBezierPath, and also bring its functionality closer to NSBezierPath  
+https://github.com/adamwulf/PerformanceBezier  
 ##### Graphics
 __separable-sss__ \ Separable Subsurface Scattering is a technique that allows to efficiently perform subsurface scattering calculations in screen space in just two passes  
 https://github.com/iryoku/separable-sss  
@@ -221,7 +223,8 @@ https://github.com/papers-we-love/papers-we-love
 #### Notifications
 __CRToast__ \ A modern iOS toast view that can fit your notification needs  
 https://github.com/cruffenach/CRToast  
-
+__RKNotificationHub__ \ Make any UIView a full fledged notification center  
+https://github.com/cwRichardKim/RKNotificationHub  
 #### Controls
 __SMPageControl__ \ A drop in replacement for UIPageControl with a slew of additional customization options.  
 https://github.com/Spaceman-Labs/SMPageControl  
@@ -232,6 +235,9 @@ https://github.com/square/objc-TimesSquare
 ##### Map
 __calloutview__ \ A lightweight callout view class for iOS mimicking UICalloutView. http://nfarina.com/post/78014139253/smcalloutview-for-ios-7  
 https://github.com/nfarina/calloutview  
+##### Images
+__VICMAImageView__ \ Content Mode Animatable Image View, change image view's content mode with your animation!  
+https://github.com/vitoziv/VICMAImageView  
 #### Keyboard
 __HTAutocompleteTextField__  
 https://github.com/hoteltonight/HTAutocompleteTextField  
@@ -239,6 +245,8 @@ __JVFloatLabeledTextField__ \ UITextField subclass with floating labels - inspir
 https://github.com/jverdi/JVFloatLabeledTextField  
 __RPFloatingPlaceholders__ \ UITextField and UITextView subclasses with placeholders that change into floating labels when the fields are populated with text. http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction  
 https://github.com/iwasrobbed/RPFloatingPlaceholders  
+__IQKeyboardManager__ \ Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.  
+https://github.com/hackiftekhar/IQKeyboardManager  
 #### Navigation
 __ECSlidingViewController__ \ Customizable sliding view controller container.  
 https://github.com/ECSlidingViewController/ECSlidingViewController  
