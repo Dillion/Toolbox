@@ -10,6 +10,7 @@ Toolbox
 | [References](#references) | [UI Components](#ui-components) | [Templating / Automation](#templating--automation) | [Xcode / Deployment](#xcode--deployment) |
 | [Server](#server) | [Versioning](#versioning) | [Demo](#demo) | [Prototyping](#prototyping) |
 | [Notifications](#notifications) | [Swift ports](#swift-ports) | [Testing](#testing) | [Layout](#layout) |
+| [Utilities](#utilities) | | | |
 
 --
 ### Text and Publishing
@@ -48,6 +49,8 @@ https://github.com/lgaches/BeaconEmitter
 --
 ### Security
 [[top]](#toolbox)  
+__VENTouchLock__ \ A Touch ID and Passcode framework used in the Venmo app.  
+https://github.com/venmo/VENTouchLock  
 
 --
 ### Algorithms / Techniques
@@ -92,6 +95,9 @@ https://github.com/BoltsFramework/Bolts-iOS
 ##### String
 __StringScore__ \ StringScore is an Objective-C library which provides super fast fuzzy string matching/scoring. Based on the JavaScript library of the same name.  
 https://github.com/thetron/StringScore  
+##### Binding
+__Bond__ \ A Swift binding framework  
+https://github.com/SwiftBond/Bond  
 
 --
 ### Effects / Drawing
@@ -247,6 +253,8 @@ __RPFloatingPlaceholders__ \ UITextField and UITextView subclasses with placehol
 https://github.com/iwasrobbed/RPFloatingPlaceholders  
 __IQKeyboardManager__ \ Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.  
 https://github.com/hackiftekhar/IQKeyboardManager  
+__VENCalculatorInputView__ \ Calculator keyboard used in the Venmo iOS app  
+https://github.com/venmo/VENCalculatorInputView  
 #### Navigation
 __ECSlidingViewController__ \ Customizable sliding view controller container.  
 https://github.com/ECSlidingViewController/ECSlidingViewController  
@@ -255,12 +263,18 @@ __LXReorderableCollectionViewFlowLayout__ \ Extends `UICollectionViewFlowLayout`
 https://github.com/lxcid/LXReorderableCollectionViewFlowLayout  
 __UITableViewCell-Swipe-for-Options__ \ A reproduction of the iOS 7 Mail app's swipe-to-reveal options http://www.teehanlax.com/blog/reproducing-the-ios-7-mail-apps-interface/  
 https://github.com/TeehanLax/UITableViewCell-Swipe-for-Options  
+__UITableView-FDTemplateLayoutCell__ \ Template auto layout cell for automatically UITableViewCell height calculating  
+https://github.com/forkingdog/UITableView-FDTemplateLayoutCell  
 
 --
 ### Templating / Automation
 [[top]](#toolbox)  
 __liftoff__ \ CLI for configuring opinionated defaults on new Xcode projects  
 https://github.com/thoughtbot/liftoff  
+__KZBootstrap__ \ iOS project bootstrap aimed at high quality coding.  
+https://github.com/krzysztofzablocki/KZBootstrap  
+__chairs__ \ Swap around your iOS Simulator Documents  
+https://github.com/orta/chairs  
 
 --
 ### Xcode / Deployment
@@ -272,6 +286,12 @@ __ColorSense-for-Xcode__ \ Plugin for Xcode to make working with colors more vis
 https://github.com/omz/ColorSense-for-Xcode  
 __XcodeColors__ \ XcodeColors allows you to use colors in the Xcode debugging console. It's designed to aid in the debugging process.  
 https://github.com/robbiehanson/XcodeColors  
+__synx__ \ A command-line tool that reorganizes your Xcode project folder to match your Xcode groups  
+https://github.com/venmo/synx  
+__xcconfigs__ \ Common Xcode configuration files/settings.  
+https://github.com/jspahrsummers/xcconfigs  
+__fastlane__ \ Connect all iOS deployment tools into one streamlined workflow https://fastlane.tools  
+https://github.com/KrauseFx/fastlane  
 
 --
 ### Server
@@ -333,3 +353,9 @@ https://github.com/appsquickly/frankencover.it
 ##### Auto Layout
 __PureLayout__ \ The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.  
 https://github.com/smileyborg/PureLayout  
+
+--
+### Utilities
+[[top]](#toolbox)  
+__ReflectableEnum__ \ Reflection for enumerations in Objective-C.  
+https://github.com/fastred/ReflectableEnum  
